@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nazrul Bin Ahmad shukri</h1>
 <h3 align="center">I'm Currently working As Software developer</h3>
 
+🎯 Passionate .NET Developer | ⚙️ Backend & APIs | 💬 Always Learning
+
+- 🔭 I’m currently working on: demi umno smart apps
+- 🌱 I’m learning: ASP.NET Core, Blazor, Entity Framework , aws cloud 
+- 💼 Open to work or collaboration
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
