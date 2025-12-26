@@ -3,8 +3,8 @@
 
 🎯 Passionate .NET Developer | ⚙️ Backend & APIs | 💬 Always Learning
 
-- 🔭 I’m currently working on: demi umno smart apps
-- 🌱 I’m learning: ASP.NET Core, Blazor, Entity Framework , aws cloud 
+- 🔭 I’m currently working at Accenture As Bussiness Architecture analyst
+- 🌱 I’m learning: ASP.NET Core, Blazor, Entity Framework , aws cloud ,React.js ,Node.js and Mongo db 
 - 💼 Open to work or collaboration
 
 
