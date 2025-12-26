@@ -16,5 +16,5 @@
 
 
 
-### 🐍 Watch my contribution graph get eaten by a snake!
-![snake gif](https://github.com/nazrulshukri/nazrulshukri/blob/output/github-snake.svg)
+
+[snake gif](https://github.com/nazrulshukri/nazrulshukri/blob/output/github-snake.svg)
