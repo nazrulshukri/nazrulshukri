@@ -17,4 +17,4 @@
 
 
 
-[snake gif](https://github.com/nazrulshukri/nazrulshukri/blob/output/github-snake.svg)
+![snake gif](https://github.com/nazrulshukri/nazrulshukri/blob/output/github-snake.svg)
