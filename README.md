@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working at Nexperia Malaysia
 - 🌱 I’m learning: artifical intelligence  And Cloud Development .
+-  Doing certificate AWS developer 
 - 💼 Open to work or collaboration
 - If you are interest to find me
 - Gmail : muhammadnazrul9606@gmail.com / muhammadnazrul16@yahoo.com / lolbaker88@gmail.com
